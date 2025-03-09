@@ -17,9 +17,9 @@ Anyone in charge of Open Source Compliance at a Korean company or institute that
 
 ## Contributing
 
-OpenChain KWG always welcomes your contributions. We develop and grow with each and every precious contribution. Please refer to the next page for how to contribute. :  [CONTRIBUTING](CONTRIBUTING.md)
+OpenChain KWG always welcomes your contributions. We develop and grow with each and every precious contribution. Please take a look at the next page for how to contribute. :  [CONTRIBUTING](CONTRIBUTING.md)
 
-* GitHub Repository for cooperation : https://github.com/OpenChain-KWG
+* GitHub Repository for cooperation: https://github.com/OpenChain-KWG
 
 ## License
 
